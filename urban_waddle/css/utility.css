@@ -1,0 +1,68 @@
+.bg-maroon{
+  background: #660000;
+}
+
+.btn{
+  padding:0.6rem 1.5rem;
+  text-align: center;
+  color:var(--silver-white);
+}
+.btn-border{
+  border:solid 1.5px var(--silver-white);
+  background:none;
+}
+
+.text-title{
+  font-size:5rem
+}
+.bg-white{
+  background:solid 1.5px var(--silver-white);
+}
+
+.text-roboto{
+  font-family:'roboto'
+}
+.text-raleway{
+  font-family:'raleway'
+}
+.text-poppins{
+  font-family:'poppins'
+}
+
+.text-white{
+  color:var(--white);
+}
+
+.btn-main{
+  background:var(--main);
+  border-radius: 10px;
+  padding:0.4rem 1rem;
+}
+
+.bg-light-charcoal{
+  background:var(--light-charcoal);
+}
+.bg-charcoal{
+  background:var(--charcoal);
+}
+
+._rounded{
+  border-radius: 10px;
+}
+
+.text-main{
+  color:var(--main);
+}
+
+.text-light-charcoal{
+  color:#949494;
+}
+.text-dark-charcoal{
+  color:#404040;
+}
+.bdr-btm-dark-charcoal{
+  border-bottom:solid 1px #404040;
+}
+.bdr-btm-main{
+  border-top:solid 5px var(--main);
+}
